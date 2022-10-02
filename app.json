@@ -1,4 +1,5 @@
 {
+  "displayName": "Simple App",
   "expo": {
     "name": "sample-app",
     "slug": "sample-app",
