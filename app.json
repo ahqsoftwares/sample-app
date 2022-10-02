@@ -2,6 +2,7 @@
   "expo": {
     "name": "sample-app",
     "slug": "sample-app",
+    "owner":"ahq_miness",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

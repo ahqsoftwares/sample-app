@@ -15,7 +15,12 @@
     "react-native": "0.69.6"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "@babel/preset-env": "^7.19.3",
+    "expo-cli": "^6.0.6"
   },
-  "private": true
+  "private": true,
+  "peerDependencies": {
+    "@babel/preset-env": "^7.19.3"
+  }
 }
